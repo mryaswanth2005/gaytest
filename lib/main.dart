@@ -28,7 +28,7 @@ class MyWidget extends StatelessWidget {
             bottom: 10,
             right: 0,
             child: Image.asset(
-              'assets/female.png',
+              'assets/assets/female.png',
               height: 700,
               width: 700,
             ),
@@ -37,7 +37,7 @@ class MyWidget extends StatelessWidget {
             bottom: 10,
             right: 0,
             child: Image.asset(
-              'assets/female.png',
+              'assets/assets/female.png',
               height: 300,
               width: 300,
             ),
@@ -46,7 +46,7 @@ class MyWidget extends StatelessWidget {
             top: 10,
             right: 0,
             child: Image.asset(
-              'assets/female.png',
+              'assets/assets/female.png',
               height: 300,
               width: 300,
             ),
@@ -55,7 +55,7 @@ class MyWidget extends StatelessWidget {
             bottom: 10,
             left: 0,
             child: Image.asset(
-              'assets/male.png',
+              'assets/assets/male.png',
               height: 300,
               width: 300,
             ),
@@ -64,7 +64,7 @@ class MyWidget extends StatelessWidget {
             top: 10,
             left: 240,
             child: Image.asset(
-              'assets/male.png',
+              'assets/assets/male.png',
               height: 300,
               width: 300,
             ),
@@ -73,7 +73,7 @@ class MyWidget extends StatelessWidget {
             bottom: 10,
             right: 240,
             child: Image.asset(
-              'assets/female.png',
+              'assets/assets/female.png',
               height: 300,
               width: 300,
             ),
@@ -82,7 +82,7 @@ class MyWidget extends StatelessWidget {
             top: 10,
             left: 0,
             child: Image.asset(
-              'assets/male.png',
+              'assets/assets/male.png',
               height: 700,
               width: 700,
             ),
@@ -91,7 +91,7 @@ class MyWidget extends StatelessWidget {
             top: 10,
             left: 0,
             child: Image.asset(
-              'assets/male.png',
+              'assets/assets/male.png',
               height: 300,
               width: 300,
             ),
